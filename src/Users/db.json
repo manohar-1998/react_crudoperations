@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "name": "AhmerHii",
+      "username": "Bhai",
+      "email": "ahmer@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "Gorla",
+      "username": "Manohar",
+      "email": "manohar@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "Pohu",
+      "username": "Labs",
+      "email": "pohulabs@gmail.com",
+      "id": 6
+    }
+  ],
+  "signin": [
+    {
+      "username": "pohulabs",
+      "password": "123456"
+    }
+  ]
+}
